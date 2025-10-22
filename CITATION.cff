@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or paper, please cite both works."
+authors:
+  - family-names: Tikhe
+    given-names: Aadesh
+    email: aadeshtikhe24@gmail.com
+title: "Fibonacci Numbers from Pascal Rows: A Ternary Coefficient and Greedy Approach"
+version: 1.0.0
+date-released: 2025-10-22
+url: "https://github.com/AST12212224/Pascals-triangle-row-for-Fibonacci"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Tikhe
+      given-names: Aadesh
+  title: "Fibonacci Numbers from Pascal Rows: A Ternary Coefficient and Greedy Approach"
+  year: 2025
+  doi: 10.5281/zenodo.17412193
+references:
+  - type: software
+    authors:
+      - family-names: Tikhe
+        given-names: Aadesh
+    title: "Pascal-Fibonacci Coefficient Solver: Implementation"
+    version: 1.0.0
+    doi: 10.5281/zenodo.17412161
